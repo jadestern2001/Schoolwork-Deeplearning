@@ -1,2 +1,2 @@
-# Schoolwork-Deeplearning
-Work done in deep learning courses in the 6th term in Xidian University.
+# Course Projects - Deep Learning
+Work done at Xidian University.
